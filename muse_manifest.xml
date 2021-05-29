@@ -1,0 +1,207 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SITIOPECES.COM" resolutions="1x" timestamp="1622134894426">
+  <folder name="css">
+    <file name="site_global.css" crc="17253077"/>
+    <file name="master_a-p_g_-maestra.css" crc="442693192" ref="accesorios:index:axolotes:peces:agua-dulce:cuidado-de-los-axolotes:contacto:agua-salada"/>
+    <file name="accesorios.css" crc="80435781" ref="accesorios"/>
+    <file name="iefonts_accesorios.css" crc="3889215189" ref="accesorios"/>
+    <file name="index.css" crc="397568416" ref="index"/>
+    <file name="iefonts_index.css" crc="4160584374" ref="index"/>
+    <file name="axolotes.css" crc="4220052398" ref="axolotes"/>
+    <file name="iefonts_axolotes.css" crc="98226198" ref="axolotes"/>
+    <file name="peces.css" crc="14415628" ref="peces"/>
+    <file name="iefonts_peces.css" crc="3859313242" ref="peces"/>
+    <file name="agua-dulce.css" crc="232573881" ref="agua-dulce"/>
+    <file name="iefonts_agua-dulce.css" crc="443110365" ref="agua-dulce"/>
+    <file name="cuidado-de-los-axolotes.css" crc="4073093000" ref="cuidado-de-los-axolotes"/>
+    <file name="iefonts_cuidado-de-los-axolotes.css" crc="4254060464" ref="cuidado-de-los-axolotes"/>
+    <file name="contacto.css" crc="3881000129" ref="contacto"/>
+    <file name="iefonts_contacto.css" crc="4004720503" ref="contacto"/>
+    <file name="agua-salada.css" crc="4271417816" ref="agua-salada"/>
+    <file name="iefonts_agua-salada.css" crc="234019922" ref="agua-salada"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:peces:axolotes:agua-dulce:agua-salada:cuidado-de-los-axolotes:accesorios:contacto"/>
+    <file name="museutils.js" crc="3803043152" ref="index:peces:axolotes:agua-dulce:agua-salada:cuidado-de-los-axolotes:accesorios:contacto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:peces:axolotes:agua-dulce:agua-salada:cuidado-de-los-axolotes:accesorios:contacto"/>
+    <file name="museconfig.js" crc="380897831" ref="index:peces:axolotes:agua-dulce:agua-salada:cuidado-de-los-axolotes:accesorios:contacto"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:peces:agua-dulce:agua-salada:cuidado-de-los-axolotes:accesorios"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:peces:axolotes:agua-dulce:agua-salada:cuidado-de-los-axolotes:accesorios:contacto"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:peces:axolotes:agua-dulce:agua-salada:cuidado-de-los-axolotes:accesorios:contacto"/>
+    <file name="require.js" crc="4157109226" ref="index:peces:axolotes:agua-dulce:agua-salada:cuidado-de-los-axolotes:accesorios:contacto"/>
+    <file name="webpro.js" crc="242022427" ref="cuidado-de-los-axolotes:accesorios:contacto"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="cuidado-de-los-axolotes:accesorios"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="cuidado-de-los-axolotes:accesorios"/>
+    <file name="touchswipe.js" crc="4066113679" ref="cuidado-de-los-axolotes:accesorios"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="accesorios"/>
+    <file name="form_check.php" crc="62300408" ref="contacto"/>
+    <file name="form_process.php" crc="91775217" ref="contacto"/>
+    <file name="form-u3183.php" crc="523081127" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="453104787" ref="index"/>
+    <file name="aqua.jpg" crc="3820141757" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coral-reef-fish-ocean-water-wallpaper-preview.jpg" crc="3826348251" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:accesorios"/>
+    <file name="aquaespacio.jpg" crc="385375853" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="acuario-tropical-6-tarracogoldfish.jpg" crc="295073228" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="axolotl-u2065-fr.jpg" crc="185628879" ref="index"/>
+    <file name="2.jpg" crc="3935965302" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="peces-848x477x80xx.jpg" crc="33401653" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pez-payaso-peces-marinos-pez-nemo-acuario-marino-d_nq_np_610980-mpe32602643242_102019-f-u2046-r-fr.jpg" crc="3759280323" ref="index"/>
+    <file name="imagen pegada 690x335.jpg" crc="137581723" seo="true" ref="index:peces:axolotes:agua-dulce:agua-salada:cuidado-de-los-axolotes:accesorios:contacto">
+      <caption webpage="axolotes" alt=""/>
+      <caption webpage="peces" alt=""/>
+      <caption webpage="cuidado-de-los-axolotes" alt=""/>
+      <caption webpage="accesorios" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="agua-salada" alt=""/>
+      <caption webpage="agua-dulce" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="pez-dorado.jpg" crc="347805173" ref="peces">
+      <caption webpage="peces" alt=""/>
+    </file>
+    <file name="zebrasoma_flavescens.jpg" crc="4222745203" ref="peces:agua-dulce">
+      <caption webpage="peces" alt=""/>
+      <caption webpage="agua-dulce" alt=""/>
+    </file>
+    <file name="pez-betta.jpg" crc="4070092763" ref="peces">
+      <caption webpage="peces" alt=""/>
+    </file>
+    <file name="axolotl.jpg" crc="3878131502" ref="axolotes">
+      <caption webpage="axolotes" alt=""/>
+    </file>
+    <file name="ajolotee.gif" crc="245278951" seo="true" ref="axolotes">
+      <caption webpage="axolotes" alt=""/>
+    </file>
+    <file name="5729544b25297c3af1077c15d0c84407.gif" crc="393209230" seo="true" ref="axolotes">
+      <caption webpage="axolotes" alt=""/>
+    </file>
+    <file name="pez-angel-reproduccion.jpg" crc="3818990906" ref="agua-dulce">
+      <caption webpage="agua-dulce" alt=""/>
+    </file>
+    <file name="giphy (1).gif" crc="367913017" seo="true" ref="agua-dulce">
+      <caption webpage="agua-dulce" alt=""/>
+    </file>
+    <file name="tumblr_p8nfc7o7ul1x8q01eo1_400.gif" crc="3853563432" seo="true" ref="agua-dulce">
+      <caption webpage="agua-dulce" alt=""/>
+    </file>
+    <file name="betta.gif" crc="3910952746" seo="true" ref="agua-dulce">
+      <caption webpage="agua-dulce" alt=""/>
+    </file>
+    <file name="goldfish.gif" crc="6594030" seo="true" ref="agua-dulce">
+      <caption webpage="agua-dulce" alt=""/>
+    </file>
+    <file name="pez salado.jpg" crc="224861299" ref="agua-salada">
+      <caption webpage="agua-salada" alt=""/>
+    </file>
+    <file name="pez-payaso-peces-marinos-pez-nemo-acuario-marino-d_nq_np_610980-mpe32602643242_102019-f.jpg" crc="379644729" seo="true" ref="agua-salada">
+      <caption webpage="agua-salada" alt=""/>
+    </file>
+    <file name="d84f9510-25ef-40b2-be28-38c086a4fa38.jpg" crc="3819393438" seo="true" ref="agua-salada">
+      <caption webpage="agua-salada" alt=""/>
+    </file>
+    <file name="cuidado ajolote.jpg" crc="324067801" seo="true" ref="cuidado-de-los-axolotes">
+      <caption webpage="cuidado-de-los-axolotes" alt=""/>
+    </file>
+    <file name="urna-acuario-2.jpg" crc="4032682215" ref="cuidado-de-los-axolotes">
+      <caption webpage="cuidado-de-los-axolotes" alt=""/>
+    </file>
+    <file name="termmetro-para-acuarios-ventosa.jpg" crc="66307384" ref="cuidado-de-los-axolotes">
+      <caption webpage="cuidado-de-los-axolotes" alt=""/>
+    </file>
+    <file name="2-u3380-fr.jpg" crc="3932792469" ref="cuidado-de-los-axolotes"/>
+    <file name="0d04c358-bigstock-planted-tropical-freshwater-aq-4667572.jpg" crc="3967558564" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="110-240v-sunsun-hj111b-hj-111b-hj-311b-hj311b-hj-411b-hj411b-peces-de-acuario-tanquejpg_q50.jpg" crc="256823010" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="available_at_amazon_1200x600_nvz5h2m.png" crc="269050612" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+      <caption webpage="accesorios" alt=""/>
+      <caption webpage="accesorios" alt=""/>
+      <caption webpage="accesorios" alt=""/>
+      <caption webpage="accesorios" alt=""/>
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="imagen pegada 512x384-crop-u2644.jpg" crc="93778610" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="imagen pegada 1004x900.jpg" crc="3969793726" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="imagen pegada 527x741.jpg" crc="4135819952" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="accesorio-castillos-para-peceras-crop-u2810.jpg" crc="314618791" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="lumini-lámpara-de-luz-led-para-acuario-300x212-crop-u2970.jpg" crc="94921369" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="5de048b6533bb-2781139246e858466ad9c21cbdc99ca95578c670-1600x1600-crop-u3035.jpg" crc="312874760" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="miniadornos-para-acuario-transparentes-decoraci-n-de-plantas-de-acuario-fondo-pecera-piedra-adornos-para-acuariojpg_q50-crop-u3075.jpg" crc="127252451" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="aireadores-de-acuarios-con-doble-salida-de-aire-300x300-crop-u2950.jpg" crc="4016673321" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="rbvai1hothsabgfnaakvvqyzhmg537-crop-u2990.jpg" crc="476038216" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="images-crop-u3055.jpg" crc="4274199063" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="accesorio-castillos-para-peceras-crop-u2798.jpg" crc="4067506931" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="aireadores-de-acuarios-con-doble-salida-de-aire-300x300.jpg" crc="144156313" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="lumini-lámpara-de-luz-led-para-acuario-300x212.jpg" crc="4096126879" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="rbvai1hothsabgfnaakvvqyzhmg537-crop-u2984.jpg" crc="336217559" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="5de048b6533bb-2781139246e858466ad9c21cbdc99ca95578c670-1600x1600-crop-u3029.jpg" crc="4118458055" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="images.jpg" crc="453729988" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="miniadornos-para-acuario-transparentes-decoraci-n-de-plantas-de-acuario-fondo-pecera-piedra-adornos-para-acuariojpg_q50-crop-u3069.jpg" crc="102681744" seo="true" ref="accesorios">
+      <caption webpage="accesorios" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="accesorios"/>
+  </folder>
+  <file name="index.html" crc="3813095831" seo="true" mt="1622134891042" redirect="true"/>
+  <file name="peces.html" crc="4227188569" seo="true" mt="1590675248197" redirect="true"/>
+  <file name="axolotes.html" crc="115667453" seo="true" mt="1590675296704" redirect="true"/>
+  <file name="agua-dulce.html" crc="4134256498" seo="true" mt="1590675248197" redirect="true"/>
+  <file name="agua-salada.html" crc="3908862791" seo="true" mt="1590675248197" redirect="true"/>
+  <file name="cuidado-de-los-axolotes.html" crc="4274842746" seo="true" mt="1622134891065" redirect="true"/>
+  <file name="accesorios.html" crc="394659757" seo="true" mt="1590675248197" redirect="true"/>
+  <file name="contacto.html" crc="508289197" seo="true" mt="1590675248197" redirect="true"/>
+</manifest>
